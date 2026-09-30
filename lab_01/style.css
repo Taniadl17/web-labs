@@ -1,0 +1,12 @@
+.card {
+    display: inline-block;
+    background-color: #e8e8e8;
+    padding: 5px 8px;
+    margin: 2px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.red {
+    color:  #8b0000;;
+}
